@@ -1,0 +1,38 @@
+TITLE: Cancer Biology, Types, and Modern Treatment Approaches
+SOURCE: National Cancer Institute Clinical Reference, 2024
+
+Cancer is a disease characterized by uncontrolled cell division and the ability of abnormal cells to invade and spread to other parts of the body (metastasis). It arises from genetic mutations that disrupt normal cellular regulation of growth, differentiation, and apoptosis.
+
+CANCER TYPES AND PREVALENCE
+The most common cancers worldwide include:
+- Breast cancer: Most common in women; BRCA1/BRCA2 mutations increase lifetime risk
+- Lung cancer: Leading cause of cancer death; strongly associated with smoking
+- Colorectal cancer: Third most common; linked to diet, lifestyle, and Lynch syndrome
+- Prostate cancer: Most common in men; PSA screening detects early disease
+- Leukemia/lymphoma: Hematologic malignancies; vary widely in treatment approach
+- Brain tumors: Glioblastoma multiforme (GBM) is most aggressive; median survival ~15 months
+
+CANCER HALLMARKS
+Key hallmarks of cancer (Hanahan & Weinberg) include: sustaining proliferative signaling, evading growth suppressors, resisting cell death, enabling replicative immortality, inducing angiogenesis, activating invasion and metastasis, reprogramming energy metabolism, and evading immune destruction.
+
+DIAGNOSIS AND STAGING
+Diagnosis methods: biopsy (tissue gold standard), imaging (CT, MRI, PET scan), liquid biopsy (circulating tumor DNA), biomarker testing (PSA for prostate, CA-125 for ovarian, CEA for colorectal).
+Staging follows TNM classification: T (tumor size), N (nodal involvement), M (metastasis). Stage I–IV guides treatment intensity and prognosis.
+
+GENOMICS AND BIOMARKERS
+Modern oncology uses genomic profiling (next-generation sequencing, RNA-seq, transcriptomics) to identify driver mutations (EGFR, KRAS, BRAF, TP53, PIK3CA), guide targeted therapy selection, and discover prognostic biomarkers. Gleason score (1–10) grades prostate cancer aggressiveness based on pathological appearance. Higher Gleason scores correlate with worse prognosis.
+
+TREATMENT MODALITIES
+- Surgery: Primary treatment for solid tumors; aims for R0 (margin-negative) resection
+- Radiation therapy: Ionizing radiation damages tumor DNA; used alone or with chemotherapy
+- Chemotherapy: Cytotoxic drugs (cisplatin, paclitaxel, 5-FU) target rapidly dividing cells
+- Targeted therapy: Drugs targeting specific mutations (imatinib for BCR-ABL, erlotinib for EGFR)
+- Immunotherapy: Checkpoint inhibitors (pembrolizumab, nivolumab) unleash T-cell attack on tumor
+- CAR-T cell therapy: Engineered T cells expressing chimeric antigen receptors; approved for hematologic malignancies
+- Hormone therapy: Blocks hormone-driven growth in breast (tamoxifen, aromatase inhibitors) and prostate cancer (androgen deprivation therapy)
+
+AI IN ONCOLOGY
+Deep learning models trained on RNA-seq and transcriptomic data can predict Gleason score grades, identify cancer biomarkers, classify tumor subtypes, and predict response to treatment. Foundation models (e.g., Geneformer) fine-tuned on TCGA data enable population-level cancer genomics research. Adversarial attacks on segmentation models (false negative induction in brain tumor segmentation) pose safety concerns that must be addressed before clinical deployment.
+
+PROGNOSIS AND SURVIVAL
+5-year survival rates vary enormously: thyroid cancer >98%, prostate cancer >99% (localized), lung cancer ~25% (all stages), glioblastoma ~6%. Early detection dramatically improves outcomes.

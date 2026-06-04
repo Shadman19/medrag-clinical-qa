@@ -1,0 +1,37 @@
+TITLE: Cardiovascular Disease — Risk Factors, Prevention, and Treatment
+SOURCE: American Heart Association Clinical Guidelines, 2024
+
+Cardiovascular disease (CVD) encompasses a group of disorders of the heart and blood vessels, including coronary artery disease (CAD), heart failure, stroke, and peripheral arterial disease. CVD is the leading cause of death globally, responsible for approximately 17.9 million deaths per year.
+
+RISK FACTORS
+Modifiable risk factors include hypertension (blood pressure ≥ 130/80 mmHg), dyslipidemia (elevated LDL cholesterol, low HDL), smoking, diabetes mellitus, obesity, physical inactivity, poor diet, and excessive alcohol use. Non-modifiable risk factors include age (men ≥ 45, women ≥ 55), male sex, family history of premature CVD, and ethnicity.
+
+SYMPTOMS OF CORONARY ARTERY DISEASE
+Typical symptoms include chest pain or pressure (angina) that may radiate to the left arm, jaw, or back; shortness of breath; palpitations; sweating; nausea; and fatigue. Women more frequently present with atypical symptoms such as fatigue, nausea, and back or jaw pain without classic chest pressure.
+
+HEART FAILURE
+Heart failure occurs when the heart cannot pump sufficient blood to meet the body's needs. Symptoms include dyspnea (shortness of breath), orthopnea, paroxysmal nocturnal dyspnea, peripheral edema, and fatigue. The New York Heart Association (NYHA) classifies severity from Class I (no limitation) to Class IV (symptoms at rest).
+
+DIAGNOSIS
+Diagnostic tools include:
+- Electrocardiogram (ECG/EKG) — detects arrhythmias, ischemia, infarction
+- Echocardiogram — assesses cardiac structure and function
+- Stress testing — evaluates ischemia during exertion
+- Coronary angiography — gold standard for CAD diagnosis
+- Cardiac biomarkers: troponin I/T (myocardial injury), BNP/NT-proBNP (heart failure)
+- Lipid panel, HbA1c, blood pressure measurement
+
+PREVENTION
+Primary prevention focuses on controlling modifiable risk factors: lifestyle changes (Mediterranean or DASH diet, regular aerobic exercise, smoking cessation, weight management), and medications (statins for high CVD risk, antihypertensives, aspirin in selected patients).
+
+Secondary prevention (after a cardiovascular event): dual antiplatelet therapy, high-intensity statin therapy, ACE inhibitors/ARBs, beta-blockers, and cardiac rehabilitation.
+
+TREATMENT
+Acute coronary syndrome (ACS) management includes antiplatelet therapy (aspirin + P2Y12 inhibitor), anticoagulation, and urgent revascularization (PCI — percutaneous coronary intervention, or CABG — coronary artery bypass graft surgery).
+
+Chronic stable angina is managed with beta-blockers, calcium channel blockers, nitrates, and revascularization when appropriate.
+
+Heart failure with reduced ejection fraction (HFrEF): ACE inhibitors/ARBs, beta-blockers, mineralocorticoid receptor antagonists, SGLT2 inhibitors (empagliflozin, dapagliflozin), and diuretics for fluid management.
+
+CARDIAC BIOMARKERS AND AI
+Machine learning models have shown promise in predicting cardiovascular events from electronic health records, integrating genomic variants, imaging data, and clinical features for personalized risk stratification.

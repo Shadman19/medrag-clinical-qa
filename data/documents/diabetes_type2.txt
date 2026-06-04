@@ -1,0 +1,30 @@
+TITLE: Type 2 Diabetes Mellitus — Overview, Symptoms, and Management
+SOURCE: Clinical Medicine Reference, 2024
+
+Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency, resulting in hyperglycemia. It accounts for approximately 90–95% of all diabetes cases worldwide.
+
+SYMPTOMS AND CLINICAL PRESENTATION
+The classic symptoms of Type 2 diabetes include polyuria (frequent urination), polydipsia (excessive thirst), polyphagia (increased hunger), unexplained weight loss, fatigue, blurred vision, and slow-healing wounds. Many patients are asymptomatic at diagnosis, with the condition discovered incidentally during routine blood tests. Recurrent infections, particularly urinary tract infections and skin infections, are also commonly reported.
+
+PATHOPHYSIOLOGY
+In T2DM, peripheral tissues (muscle, liver, adipose) become resistant to the actions of insulin. The pancreatic beta cells initially compensate by producing more insulin, but over time they become exhausted and insulin secretion declines. This dual defect — insulin resistance and impaired secretion — drives hyperglycemia. Chronic low-grade inflammation, lipotoxicity, and glucotoxicity further impair beta-cell function.
+
+DIAGNOSIS
+Diagnosis is established by one of the following criteria:
+- Fasting plasma glucose ≥ 126 mg/dL (7.0 mmol/L)
+- 2-hour plasma glucose ≥ 200 mg/dL during a 75g OGTT
+- HbA1c ≥ 6.5%
+- Random plasma glucose ≥ 200 mg/dL with classic symptoms
+
+RISK FACTORS
+Major risk factors include obesity (especially central/abdominal adiposity), physical inactivity, family history of T2DM, age ≥ 45 years, hypertension, dyslipidemia, history of gestational diabetes, and prediabetes. Ethnicity plays a role — South Asian, African American, Hispanic, and Indigenous populations have higher prevalence.
+
+MANAGEMENT
+First-line treatment is lifestyle modification: weight loss (5–10% of body weight significantly improves glycemic control), dietary changes (low glycemic index, reduced simple carbohydrates), and regular physical activity (150 min/week of moderate-intensity exercise).
+
+Metformin is the preferred first pharmacological agent, reducing hepatic glucose output. If glycemic targets are not met, additional agents are added: SGLT2 inhibitors (empagliflozin, dapagliflozin), GLP-1 receptor agonists (semaglutide, liraglutide), DPP-4 inhibitors, sulfonylureas, or insulin.
+
+Glycemic target: HbA1c < 7.0% for most patients. Individualized targets apply for elderly patients or those with hypoglycemia risk.
+
+COMPLICATIONS
+Uncontrolled T2DM leads to microvascular complications (diabetic retinopathy, nephropathy, neuropathy) and macrovascular complications (coronary artery disease, stroke, peripheral arterial disease). Regular screening for these complications is essential.

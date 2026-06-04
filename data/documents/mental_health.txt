@@ -1,0 +1,37 @@
+TITLE: Mental Health Disorders — Depression, Anxiety, and Treatment
+SOURCE: DSM-5 / WHO Mental Health Atlas, 2024
+
+Mental health disorders affect approximately 1 in 8 people globally. Depression and anxiety are the most prevalent, causing significant disability and reduced quality of life. Early recognition and treatment are critical.
+
+MAJOR DEPRESSIVE DISORDER (MDD)
+Diagnostic criteria (DSM-5) require 5+ symptoms for ≥ 2 weeks, including depressed mood or anhedonia (loss of interest/pleasure), plus: significant weight change, insomnia or hypersomnia, psychomotor agitation or retardation, fatigue, feelings of worthlessness or excessive guilt, difficulty concentrating, and recurrent thoughts of death or suicidal ideation.
+
+Prevalence: ~280 million people affected worldwide. Lifetime prevalence ~15–20%. More common in women (2:1 ratio).
+
+Pathophysiology: Monoamine hypothesis (serotonin, norepinephrine, dopamine dysregulation); neuroinflammation; HPA axis dysregulation; neuroplasticity deficits (reduced BDNF, hippocampal volume loss).
+
+GENERALIZED ANXIETY DISORDER (GAD)
+Characterized by excessive, uncontrollable worry about multiple domains (work, health, family) for ≥ 6 months, accompanied by restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbance.
+
+TREATMENT
+Psychotherapy: Cognitive-behavioral therapy (CBT) is the gold standard for both depression and anxiety — efficacy comparable to medication in mild-moderate cases, with more durable effects.
+
+Pharmacotherapy for depression:
+- SSRIs (sertraline, fluoxetine, escitalopram) — first-line; 4–6 weeks for full effect
+- SNRIs (venlafaxine, duloxetine) — also effective for anxiety
+- Bupropion — useful when sexual side effects are a concern; also aids smoking cessation
+- TCAs, MAOIs — reserved for treatment-resistant cases (side effect profile)
+- Lithium, atypical antipsychotics — augmentation strategies
+
+Pharmacotherapy for anxiety:
+- SSRIs/SNRIs — first-line for GAD, panic disorder, social anxiety
+- Buspirone — non-addictive option for GAD
+- Benzodiazepines — short-term only due to dependence risk
+
+Novel treatments: Ketamine/esketamine (Spravato) for treatment-resistant depression; TMS (transcranial magnetic stimulation); ECT for severe, refractory cases.
+
+AI AND MENTAL HEALTH
+Machine learning models trained on EHR data, mobile sensor data, and speech patterns show promise in predicting depression onset, treatment response, and suicide risk. NLP techniques applied to clinical notes improve diagnostic accuracy.
+
+BRAIN-COMPUTER INTERFACE AND SIGNAL PROCESSING
+EEG-based classification of motor imagery signals (e.g., using bidirectional LSTM networks) enables brain-computer interfaces that can assist individuals with motor disabilities — with mental health applications in neurofeedback for depression and ADHD.

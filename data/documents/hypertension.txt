@@ -1,0 +1,42 @@
+TITLE: Hypertension — Diagnosis, Classification, and Management
+SOURCE: JNC 8 / ACC/AHA 2017 Guidelines Summary
+
+Hypertension (high blood pressure) is one of the most prevalent and modifiable risk factors for cardiovascular disease, stroke, kidney disease, and premature death. It affects approximately 1.3 billion adults worldwide.
+
+CLASSIFICATION
+According to the 2017 ACC/AHA guidelines:
+- Normal: Systolic < 120 mmHg AND Diastolic < 80 mmHg
+- Elevated: Systolic 120–129 AND Diastolic < 80
+- Stage 1 Hypertension: Systolic 130–139 OR Diastolic 80–89
+- Stage 2 Hypertension: Systolic ≥ 140 OR Diastolic ≥ 90
+- Hypertensive Crisis: Systolic > 180 and/or Diastolic > 120
+
+TYPES
+Primary (essential) hypertension accounts for 90–95% of cases — no identifiable cause. Secondary hypertension (5–10%) has an underlying cause: renal artery stenosis, primary aldosteronism, obstructive sleep apnea, chronic kidney disease, thyroid disorders, or medication-induced (NSAIDs, oral contraceptives, decongestants).
+
+SYMPTOMS
+Hypertension is largely asymptomatic ("silent killer"), which is why regular screening is essential. Severe or rapidly rising blood pressure may cause headache (especially occipital), visual disturbances, nausea, chest pain, or shortness of breath.
+
+COMPLICATIONS
+Uncontrolled hypertension damages target organs:
+- Heart: Left ventricular hypertrophy, heart failure, coronary artery disease
+- Brain: Stroke (ischemic and hemorrhagic), hypertensive encephalopathy, vascular dementia
+- Kidneys: Hypertensive nephropathy, chronic kidney disease, end-stage renal disease
+- Eyes: Hypertensive retinopathy, visual loss
+- Blood vessels: Aortic aneurysm, peripheral arterial disease
+
+LIFESTYLE MODIFICATIONS
+All patients: DASH diet (rich in fruits, vegetables, low-fat dairy; reduced sodium), sodium restriction (< 2.3 g/day, ideally < 1.5 g/day), aerobic exercise (150 min/week), weight loss, moderation of alcohol, smoking cessation.
+
+PHARMACOLOGICAL TREATMENT
+Preferred first-line agents depend on compelling indications:
+- Thiazide diuretics (hydrochlorothiazide, chlorthalidone)
+- ACE inhibitors (lisinopril, enalapril) — preferred in diabetes, CKD
+- Angiotensin receptor blockers / ARBs (losartan, valsartan) — ACE inhibitor intolerant
+- Calcium channel blockers (amlodipine, nifedipine)
+- Beta-blockers (metoprolol, carvedilol) — preferred post-MI, heart failure
+
+Most patients with Stage 2 hypertension require combination therapy. BP target: < 130/80 mmHg for most adults.
+
+MONITORING
+Home blood pressure monitoring, 24-hour ambulatory BP monitoring for white-coat or masked hypertension. Regular lab monitoring: BMP (potassium, creatinine), urinalysis for proteinuria, ECG for LVH.
