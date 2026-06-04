@@ -1,5 +1,7 @@
 # 🏥 MedRAG — Clinical Question Answering with RAG
 
+🔗 **[Try the Live Demo →](https://shadman19.github.io/medrag-clinical-qa/)**
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-red)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
